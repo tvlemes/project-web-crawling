@@ -13,16 +13,13 @@
       </ul>
     </li>
     <li>
-      <a href="#pastas-e-arquivos">Criando um projeto</a>
+      <a href="#criando-um-projeto">Criando um projeto</a>
     </li>
     <li>
       <a href="#pastas-e-arquivos">Pastas e Arquivos</a>
     </li>
     <li>
-      <a href="#configuracoes-avancadas">Configurações Avançadas</a>
-    </li>
-    <li>
-      <a href="#links">Links</a>
+      <a href="#configurações-avançadas">Configurações Avançadas</a>
     </li>
     <li>
       <a href="#sobre">Sobre</a>
@@ -41,7 +38,7 @@ Este projeto tem por fim exemplificar de como criar um projeto para Scrapy na We
 * datetime
 * os
 
-<!-- criando-o-projeto -->
+<!-- criando-um-projeto -->
 ## Criando um projeto
 
 Assim que a biblioteca <b>scrapy</b> esteja instalada, no terminal digite o seguinte comando para criar a estrutura básica do projeto.
@@ -69,7 +66,7 @@ nome_do_projeto
 Dentro da pasta <b>spiders/</b>, você pode criar seu próprio spider. Neste exemplo foi criado o <b>spider_links</b>, para capturar os links de downloads do Censo Escolar.
 
 
-<!-- rodando-o-projeto -->
+<!-- configuraçõees-avançadas -->
 ## Configurações Avançadas
 
 As configurações avançadas podem ser setadas no arquivo <b>settings.py</b>
