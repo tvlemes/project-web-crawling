@@ -37,7 +37,7 @@ Este projeto tem por fim exemplificar de como criar um projeto para Scrapy na We
 <!-- programas-e-bibliotecas -->
 ### Bibliotecas utilizadas
 
-* scrapy (para instalar a bibliotteca <b>$ pip install scrapy</b>)
+* scrapy (para instalar a biblioteca <b>$ pip install scrapy</b>)
 * datetime
 * os
 
