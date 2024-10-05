@@ -72,10 +72,11 @@ As configurações avançadas podem ser setadas no arquivo <b>settings.py</b>
 Ex.: Para respeitar o robots.txt:
 <b>USER_AGENT = 'meu_projeto_scrapy (+http://www.meusite.com)'</b>
 
-* settings.py: configurações avançadas
-* Middlewares: Para gerenciar requisições e respostas.
-* Pipelines: Para processar ou armazenar os dados extraídos.
-* Seletores CSS e XPath: Para selecionar elementos HTML específicos.
+Abaixo temos algumas das funções dos arquivos:
+* settings.py: Configurações avançadas
+* middlewares.py: Para gerenciar requisições e respostas.
+* pipelines.py: Para processar ou armazenar os dados extraídos.
+
 
 <b> OBS.: O objetivo deste projeto não é explicar minuciosamente toda a biblioteca scrapy</b>
 
