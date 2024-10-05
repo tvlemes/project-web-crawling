@@ -57,7 +57,6 @@ nome_do_projeto
         pipelines.py
         settings.py
         spiders/
-            __init__.py
 ```
 
 <!-- arquivos-e-pastas -->
